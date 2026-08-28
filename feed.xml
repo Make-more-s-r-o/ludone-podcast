@@ -16,14 +16,14 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:block>no</itunes:block>
-    <itunes:image href="https://make-more-s-r-o.github.io/ludone-podcast/cover.jpg" />
+    <itunes:image href="https://make-more-s-r-o.github.io/ludone-podcast/cover-v2.jpg" />
     <itunes:category text="Business" />
     <atom:link href="https://make-more-s-r-o.github.io/ludone-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>01 — Co je Luďan a kde co dělat</title>
       <description>Kde dnes Luďan žije, co se dělá na ludone.cz a co na app.ludone.cz.</description>
       <content:encoded>&lt;p&gt;Kde dnes Luďan žije, co se dělá na ludone.cz a co na app.ludone.cz.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">ludone-cz-01-co-je-ludone-cz</guid>
+      <guid isPermaLink="false">ludone-cz-v2-01-co-je-ludone-cz</guid>
       <pubDate>Fri, 21 Aug 2026 15:50:00 +0000</pubDate>
       <enclosure url="https://make-more-s-r-o.github.io/ludone-podcast/episodes/01-co-je-ludone-cz-v2.mp3" length="4868456" type="audio/mpeg" />
       <itunes:season>1</itunes:season>
@@ -31,13 +31,13 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://make-more-s-r-o.github.io/ludone-podcast/covers/01.jpg" />
+      <itunes:image href="https://make-more-s-r-o.github.io/ludone-podcast/covers-v2/01.jpg" />
     </item>
     <item>
       <title>02 — Projekt od založení po uzavření</title>
       <description>Pět datumů projektu, odpovědnost vedoucího a bezpečné uzavření bez dalších skrytých nákladů.</description>
       <content:encoded>&lt;p&gt;Pět datumů projektu, odpovědnost vedoucího a bezpečné uzavření bez dalších skrytých nákladů.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">ludone-cz-02-zivot-projektu</guid>
+      <guid isPermaLink="false">ludone-cz-v2-02-zivot-projektu</guid>
       <pubDate>Fri, 21 Aug 2026 15:49:00 +0000</pubDate>
       <enclosure url="https://make-more-s-r-o.github.io/ludone-podcast/episodes/02-zivot-projektu-v2.mp3" length="5314432" type="audio/mpeg" />
       <itunes:season>1</itunes:season>
@@ -45,13 +45,13 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>5:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://make-more-s-r-o.github.io/ludone-podcast/covers/02.jpg" />
+      <itunes:image href="https://make-more-s-r-o.github.io/ludone-podcast/covers-v2/02.jpg" />
     </item>
     <item>
       <title>03 — Jak číst rozpočet projektu</title>
       <description>Plán, skutečnost, reálná bilance a čerstvost dat v LuTeru.</description>
       <content:encoded>&lt;p&gt;Plán, skutečnost, reálná bilance a čerstvost dat v LuTeru.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">ludone-cz-03-jak-cist-rozpocet</guid>
+      <guid isPermaLink="false">ludone-cz-v2-03-jak-cist-rozpocet</guid>
       <pubDate>Fri, 21 Aug 2026 15:48:00 +0000</pubDate>
       <enclosure url="https://make-more-s-r-o.github.io/ludone-podcast/episodes/03-jak-cist-rozpocet-v2.mp3" length="5615498" type="audio/mpeg" />
       <itunes:season>1</itunes:season>
@@ -59,13 +59,13 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>5:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://make-more-s-r-o.github.io/ludone-podcast/covers/03.jpg" />
+      <itunes:image href="https://make-more-s-r-o.github.io/ludone-podcast/covers-v2/03.jpg" />
     </item>
     <item>
       <title>04 — Plán rozpočtu na další rok</title>
       <description>Jak vedoucí připraví budoucí ročník a co se stane až po Danově schválení a propsání.</description>
       <content:encoded>&lt;p&gt;Jak vedoucí připraví budoucí ročník a co se stane až po Danově schválení a propsání.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">ludone-cz-04-plan-rozpoctu</guid>
+      <guid isPermaLink="false">ludone-cz-v2-04-plan-rozpoctu</guid>
       <pubDate>Fri, 21 Aug 2026 15:47:00 +0000</pubDate>
       <enclosure url="https://make-more-s-r-o.github.io/ludone-podcast/episodes/04-plan-rozpoctu-v2.mp3" length="4874066" type="audio/mpeg" />
       <itunes:season>1</itunes:season>
@@ -73,13 +73,13 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>5:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://make-more-s-r-o.github.io/ludone-podcast/covers/04.jpg" />
+      <itunes:image href="https://make-more-s-r-o.github.io/ludone-podcast/covers-v2/04.jpg" />
     </item>
     <item>
       <title>05 — Rozpočtové žádosti a přesuny peněz</title>
       <description>Jak změnit běžící rozpočet, vysvětlit důvod a včas řešit varování.</description>
       <content:encoded>&lt;p&gt;Jak změnit běžící rozpočet, vysvětlit důvod a včas řešit varování.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">ludone-cz-05-rozpoctove-zadosti</guid>
+      <guid isPermaLink="false">ludone-cz-v2-05-rozpoctove-zadosti</guid>
       <pubDate>Fri, 21 Aug 2026 15:46:00 +0000</pubDate>
       <enclosure url="https://make-more-s-r-o.github.io/ludone-podcast/episodes/05-rozpoctove-zadosti-v2.mp3" length="5086856" type="audio/mpeg" />
       <itunes:season>1</itunes:season>
@@ -87,13 +87,13 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>5:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://make-more-s-r-o.github.io/ludone-podcast/covers/05.jpg" />
+      <itunes:image href="https://make-more-s-r-o.github.io/ludone-podcast/covers-v2/05.jpg" />
     </item>
     <item>
       <title>06 — Čerpání, alokace a vykázaná práce</title>
       <description>Rozdíl mezi plánovanou kapacitou, vykázaným časem a skutečným mzdovým nákladem.</description>
       <content:encoded>&lt;p&gt;Rozdíl mezi plánovanou kapacitou, vykázaným časem a skutečným mzdovým nákladem.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">ludone-cz-06-cerpani-alokace-cas</guid>
+      <guid isPermaLink="false">ludone-cz-v2-06-cerpani-alokace-cas</guid>
       <pubDate>Fri, 21 Aug 2026 15:45:00 +0000</pubDate>
       <enclosure url="https://make-more-s-r-o.github.io/ludone-podcast/episodes/06-cerpani-alokace-cas-v2.mp3" length="5481835" type="audio/mpeg" />
       <itunes:season>1</itunes:season>
@@ -101,13 +101,13 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>5:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://make-more-s-r-o.github.io/ludone-podcast/covers/06.jpg" />
+      <itunes:image href="https://make-more-s-r-o.github.io/ludone-podcast/covers-v2/06.jpg" />
     </item>
     <item>
       <title>07 — Doklady a uzavření projektu</title>
       <description>Co musí být zkontrolované po skončení akce a proč uzavření samo nezastaví LuTrack.</description>
       <content:encoded>&lt;p&gt;Co musí být zkontrolované po skončení akce a proč uzavření samo nezastaví LuTrack.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">ludone-cz-07-doklady-a-uzavreni</guid>
+      <guid isPermaLink="false">ludone-cz-v2-07-doklady-a-uzavreni</guid>
       <pubDate>Fri, 21 Aug 2026 15:44:00 +0000</pubDate>
       <enclosure url="https://make-more-s-r-o.github.io/ludone-podcast/episodes/07-doklady-a-uzavreni-v2.mp3" length="4411022" type="audio/mpeg" />
       <itunes:season>1</itunes:season>
@@ -115,13 +115,13 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://make-more-s-r-o.github.io/ludone-podcast/covers/07.jpg" />
+      <itunes:image href="https://make-more-s-r-o.github.io/ludone-podcast/covers-v2/07.jpg" />
     </item>
     <item>
       <title>08 — Cenové nabídky</title>
       <description>Klientské i interní nabídky, nákladový rozpad, krytí rozpočtem a bezpečné zaúčtování.</description>
       <content:encoded>&lt;p&gt;Klientské i interní nabídky, nákladový rozpad, krytí rozpočtem a bezpečné zaúčtování.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">ludone-cz-08-cenove-nabidky</guid>
+      <guid isPermaLink="false">ludone-cz-v2-08-cenove-nabidky</guid>
       <pubDate>Fri, 21 Aug 2026 15:43:00 +0000</pubDate>
       <enclosure url="https://make-more-s-r-o.github.io/ludone-podcast/episodes/08-cenove-nabidky-v2.mp3" length="5039561" type="audio/mpeg" />
       <itunes:season>1</itunes:season>
@@ -129,13 +129,13 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>5:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://make-more-s-r-o.github.io/ludone-podcast/covers/08.jpg" />
+      <itunes:image href="https://make-more-s-r-o.github.io/ludone-podcast/covers-v2/08.jpg" />
     </item>
     <item>
       <title>09 — Sklad a dostupnost vybavení</title>
       <description>Dostupnost v termínu akce, sety, pohyby majetku a zdroje chybějící kapacity.</description>
       <content:encoded>&lt;p&gt;Dostupnost v termínu akce, sety, pohyby majetku a zdroje chybějící kapacity.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">ludone-cz-09-sklad-a-dostupnost</guid>
+      <guid isPermaLink="false">ludone-cz-v2-09-sklad-a-dostupnost</guid>
       <pubDate>Fri, 21 Aug 2026 15:42:00 +0000</pubDate>
       <enclosure url="https://make-more-s-r-o.github.io/ludone-podcast/episodes/09-sklad-a-dostupnost-v2.mp3" length="4953706" type="audio/mpeg" />
       <itunes:season>1</itunes:season>
@@ -143,13 +143,13 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>5:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://make-more-s-r-o.github.io/ludone-podcast/covers/09.jpg" />
+      <itunes:image href="https://make-more-s-r-o.github.io/ludone-podcast/covers-v2/09.jpg" />
     </item>
     <item>
       <title>10 — Odvody, interní fakturace a platby</title>
       <description>Odvody z realizovaných příjmů, interní nabídky a odpovědnost za nastavení projektu.</description>
       <content:encoded>&lt;p&gt;Odvody z realizovaných příjmů, interní nabídky a odpovědnost za nastavení projektu.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">ludone-cz-10-odvody-fakturace-platby</guid>
+      <guid isPermaLink="false">ludone-cz-v2-10-odvody-fakturace-platby</guid>
       <pubDate>Fri, 21 Aug 2026 15:41:00 +0000</pubDate>
       <enclosure url="https://make-more-s-r-o.github.io/ludone-podcast/episodes/10-odvody-fakturace-platby-v2.mp3" length="4728768" type="audio/mpeg" />
       <itunes:season>1</itunes:season>
@@ -157,13 +157,13 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://make-more-s-r-o.github.io/ludone-podcast/covers/10.jpg" />
+      <itunes:image href="https://make-more-s-r-o.github.io/ludone-podcast/covers-v2/10.jpg" />
     </item>
     <item>
       <title>11 — Luďan a AI agenti</title>
       <description>Co agent vidí, co smí připravit a proč návrh není hotová změna.</description>
       <content:encoded>&lt;p&gt;Co agent vidí, co smí připravit a proč návrh není hotová změna.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">ludone-cz-11-ludone-a-ai-agenti</guid>
+      <guid isPermaLink="false">ludone-cz-v2-11-ludone-a-ai-agenti</guid>
       <pubDate>Fri, 21 Aug 2026 15:40:00 +0000</pubDate>
       <enclosure url="https://make-more-s-r-o.github.io/ludone-podcast/episodes/11-ludone-a-ai-agenti-v2.mp3" length="4842733" type="audio/mpeg" />
       <itunes:season>1</itunes:season>
@@ -171,13 +171,13 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://make-more-s-r-o.github.io/ludone-podcast/covers/11.jpg" />
+      <itunes:image href="https://make-more-s-r-o.github.io/ludone-podcast/covers-v2/11.jpg" />
     </item>
     <item>
       <title>12 — Slovníček a nejčastější chyby</title>
       <description>Praktická mapa pojmů a chyb, které nejčastěji zkreslují projekty a rozpočty.</description>
       <content:encoded>&lt;p&gt;Praktická mapa pojmů a chyb, které nejčastěji zkreslují projekty a rozpočty.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">ludone-cz-12-slovnicek-a-chyby</guid>
+      <guid isPermaLink="false">ludone-cz-v2-12-slovnicek-a-chyby</guid>
       <pubDate>Fri, 21 Aug 2026 15:39:00 +0000</pubDate>
       <enclosure url="https://make-more-s-r-o.github.io/ludone-podcast/episodes/12-slovnicek-a-chyby-v2.mp3" length="5783147" type="audio/mpeg" />
       <itunes:season>1</itunes:season>
@@ -185,7 +185,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>5:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://make-more-s-r-o.github.io/ludone-podcast/covers/12.jpg" />
+      <itunes:image href="https://make-more-s-r-o.github.io/ludone-podcast/covers-v2/12.jpg" />
     </item>
   </channel>
 </rss>
