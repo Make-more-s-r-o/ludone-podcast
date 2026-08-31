@@ -18,7 +18,7 @@
     <itunes:block>no</itunes:block>
     <itunes:image href="https://make-more-s-r-o.github.io/ludone-podcast/cover-v3.jpg" />
     <itunes:category text="Business" />
-    <atom:link href="https://make-more-s-r-o.github.io/ludone-podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://make-more-s-r-o.github.io/ludone-podcast/feed-v3.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>01 — Co je Luďan a kde co dělat</title>
       <description>Kde dnes Luďan žije, co se dělá na ludone.cz a co na app.ludone.cz.</description>
